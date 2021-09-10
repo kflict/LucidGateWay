@@ -1,0 +1,4 @@
+git branch -m ORGIN LucidGateWay21
+git fetch origin
+git branch -u origin/LucidGateWay21 LucidGateWay21
+git remote set-head origin -a
